@@ -16,24 +16,24 @@ const STORIES: Story[] = [
   { 
       id: 1, 
       title: 'Giggiuzzu', 
-      thumbnail: 'https://images.unsplash.com/photo-1603064752734-4c48eff53d05?q=80&w=200&h=200&auto=format&fit=crop', 
-      content: 'https://images.unsplash.com/photo-1603064752734-4c48eff53d05?q=80&w=800&auto=format&fit=crop', 
+      thumbnail: '/images/giggiuzzu1.webp', 
+      content: '/images/giggiuzzu1.webp', 
       type: 'image',
       badge: 'Bestseller'
   },
   { 
       id: 2, 
       title: 'Bronte', 
-      thumbnail: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d?q=80&w=200&h=200&auto=format&fit=crop', 
-      content: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d?q=80&w=800&auto=format&fit=crop', 
+      thumbnail: '/images/bronte1.webp', 
+      content: '/images/bronte1.webp', 
       type: 'image',
       badge: 'Sicilia'
   },
   { 
       id: 3, 
       title: 'Bufalo', 
-      thumbnail: 'https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?q=80&w=200&h=200&auto=format&fit=crop', 
-      content: 'https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?q=80&w=800&auto=format&fit=crop', 
+      thumbnail: '/images/bufalo1.webp', 
+      content: '/images/bufalo1.webp', 
       type: 'image',
       badge: 'Classic'
   },
