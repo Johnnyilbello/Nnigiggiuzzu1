@@ -191,7 +191,7 @@ const MENU_DATA: MenuItem[] = [
     ingredients: "Maiale sfilacciato (Pulled Pork), cheddar, pancetta croccante, cipolla caramellata", 
     popular: true,
     tags: ['novita', 'consigliato'],
-    image: "/giggiuzzu1.webp",
+    image: "/images/giggiuzzu1.webp",
     removableIngredients: ['Cheddar', 'Pancetta', 'Cipolla']
   },
   
