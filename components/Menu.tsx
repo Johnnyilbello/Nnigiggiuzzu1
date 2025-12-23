@@ -160,7 +160,7 @@ const MENU_DATA: MenuItem[] = [
     ingredients: "Hamburger, patatine, lattuga, pomodoro, cipolla saltata, cheddar", 
     popular: true,
     tags: ['consigliato'],
-    image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=800&auto=format&fit=crop",
+    image: "/images/king1.webp",
     removableIngredients: ['Patatine', 'Lattuga', 'Pomodoro', 'Cipolla', 'Cheddar']
   },
   { 
@@ -178,7 +178,7 @@ const MENU_DATA: MenuItem[] = [
     price: 6.00, 
     category: 'Panini', 
     ingredients: "Hamburger, mozzarella di bufala, lattuga, pomodoro",
-    image: "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?q=80&w=800&auto=format&fit=crop",
+    image: "/bufalo1.webp",
     removableIngredients: ['Mozzarella Bufala', 'Lattuga', 'Pomodoro']
   },
   { id: 'p7', name: "Caprese", price: 3.00, category: 'Panini', ingredients: "Pomodoro, mozzarella, olio, origano", tags: ['vegetariano'] },
@@ -191,7 +191,7 @@ const MENU_DATA: MenuItem[] = [
     ingredients: "Maiale sfilacciato (Pulled Pork), cheddar, pancetta croccante, cipolla caramellata", 
     popular: true,
     tags: ['novita', 'consigliato'],
-    image: "https://images.unsplash.com/photo-1603064752734-4c48eff53d05?q=80&w=800&auto=format&fit=crop",
+    image: "/giggiuzzu1.webp",
     removableIngredients: ['Cheddar', 'Pancetta', 'Cipolla']
   },
   
@@ -204,7 +204,7 @@ const MENU_DATA: MenuItem[] = [
     price: 6.00, 
     category: 'Panini', 
     ingredients: "Hamburger, gorgonzola, lattuga, pomodoro, patatine",
-    image: "https://images.unsplash.com/photo-1596662951482-0c4ba74a6df6?q=80&w=800&auto=format&fit=crop",
+    image: "/images/zola.png",
     removableIngredients: ['Gorgonzola', 'Lattuga', 'Pomodoro', 'Patatine']
   },
   { id: 'p12', name: "Topolino", price: 3.00, category: 'Panini', ingredients: "Prosciutto, mozzarella, pomodoro, lattuga, wurstel" },
@@ -218,7 +218,7 @@ const MENU_DATA: MenuItem[] = [
     category: 'Panini', 
     ingredients: "Melanzane, zucchine, funghi saltati, pomodoro, emmenthal",
     tags: ['vegetariano'],
-    image: "https://images.unsplash.com/photo-1520072959219-c595dc3f3a1f?q=80&w=800&auto=format&fit=crop",
+    image: "/images/vege.png",
     removableIngredients: ['Melanzane', 'Zucchine', 'Funghi', 'Emmenthal']
   },
   { id: 'p16', name: "Piccantino", price: 4.50, category: 'Panini', ingredients: "Wurstel, scamorza affumicata, salame piccante", tags: ['piccante'] },
@@ -233,7 +233,7 @@ const MENU_DATA: MenuItem[] = [
     ingredients: "Porchetta, cipolla caramellata, emmenthal, marmellata di fichi d’India, salsa algerienne", 
     popular: true,
     tags: ['novita'],
-    image: "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=800&auto=format&fit=crop",
+    image: "/images/ficodi.png",
     removableIngredients: ['Cipolla', 'Emmenthal', 'Marmellata', 'Salsa']
   },
   { id: 'p20', name: "Doppio Cheeseburger", price: 12.00, category: 'Panini', ingredients: "2 hamburger da 180 g, doppio cheddar, doppio bacon", tags: ['consigliato'], removableIngredients: ['Cheddar', 'Bacon'] },
@@ -245,7 +245,7 @@ const MENU_DATA: MenuItem[] = [
     category: 'Panini', 
     ingredients: "Hamburger, mortadella, emmenthal, pesto di pistacchi",
     tags: ['consigliato'],
-    image: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?q=80&w=800&auto=format&fit=crop",
+    image: "/images/bronte1.webp",
     removableIngredients: ['Mortadella', 'Emmenthal', 'Pesto Pistacchio']
   },
   { 
@@ -255,7 +255,7 @@ const MENU_DATA: MenuItem[] = [
     category: 'Panini', 
     ingredients: "2 hamburger panati 100 g, medaglione di primo sale panato, lattuga, pomodoro, cipolla saltata",
     description: "Tutto panato, tutto croccante.",
-    image: "https://images.unsplash.com/photo-1615297928064-24977384d0f9?q=80&w=800&auto=format&fit=crop",
+    image: "/images/cotoletta.webp",
     removableIngredients: ['Primo Sale', 'Lattuga', 'Pomodoro', 'Cipolla']
   },
   { id: 'p23', name: "Crispy Hot Dog", price: 3.50, category: 'Panini', ingredients: "Wurstel, cipolla croccante, cheddar, ketchup" },
